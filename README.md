@@ -3,7 +3,7 @@
 #1 create a database user account with username = 'wizer' , password = 'wizer' 
 #2 Create database 'wizer' on your localhost , grant account all privileges on this database.
 
-#3 download project file
+#3 download project file wizer_simple_book_library-master.zip
 
 #4 unzip file 
 
