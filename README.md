@@ -5,9 +5,11 @@
 
 #3 download project file wizer_simple_book_library-master.zip
 
-#4 unzip file 
+#4 unzip file
 
-#5 open project with an ide e.g intelliJ 
+
+
+#5 open project with an ide e.g intelliJ or  open folder with with command prompt run 'mvn clean',after then run 'mvn package', after then change directory to target folder and run 'java -jar wizer-0.0.1-SNAPSHOT.jar'
 
 #6 run project 
 
